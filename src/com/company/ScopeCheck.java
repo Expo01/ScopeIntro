@@ -34,6 +34,6 @@ public class ScopeCheck {
             System.out.println("now calling back to outer class times method from inner class");
           ScopeCheck.this.times();
         }
-//..
+//...
     }
 }
